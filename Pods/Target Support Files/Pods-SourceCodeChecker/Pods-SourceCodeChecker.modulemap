@@ -1,0 +1,6 @@
+framework module Pods_SourceCodeChecker {
+  umbrella header "Pods-SourceCodeChecker-umbrella.h"
+
+  export *
+  module * { export * }
+}
